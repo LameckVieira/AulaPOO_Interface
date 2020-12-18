@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.exe
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.deps.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\bin\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.dll
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.pdb
+C:\Users\Lameck\Desktop\C#\AulaPOO_Interface\obj\Debug\netcoreapp3.1\AulaPOO_Interface.genruntimeconfig.cache
